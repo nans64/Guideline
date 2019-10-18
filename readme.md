@@ -16,7 +16,10 @@ Objectives :
 
 Pattern & techniques :
 
-- Concerns :
+- Concerns : 
+    * Break up the model/spec
+    * Break up by domain, or any logical split that helps
+
 - Draper decorators :
 - Presenters :
 - Split-up controllers :
