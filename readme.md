@@ -1,5 +1,9 @@
 This is my library concerning Ruby on Rails :
 
+Rails functionalities :
+
+- Params : https://medium.com/launch-school/params-in-rails-where-do-they-come-from-b172cdb46eb4
+
 Guidelines :
 
 Objectives : 
