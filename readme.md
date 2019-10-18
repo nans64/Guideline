@@ -15,6 +15,7 @@ Objectives :
 - Easy to change :
 
 Pattern & techniques :
+https://www.youtube.com/watch?v=bHpVdOzrvkE
 
 - Concerns : 
     * Break up the model/spec
