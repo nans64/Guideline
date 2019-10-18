@@ -30,3 +30,16 @@ https://www.youtube.com/watch?v=bHpVdOzrvkE
 - Split-up controllers :
 - Move logic to Models :
 - Validation classes :
+
+
+How to create ?
+
+- QR code : https://www.leighhalliday.com/creating-qr-codes-in-rails
+- Reward tool : https://www.youtube.com/watch?v=Bu_HUpcNbgE
+- Admin interface : https://www.youtube.com/watch?v=NJYtzznKrg0
+- OmniAuth : https://www.youtube.com/watch?v=fAyu3EzxN8g
+- Sentimental analysis : https://www.youtube.com/watch?v=JY6X4j68Voc
+
+Rubymine tutorial : 
+
+- https://www.youtube.com/watch?v=zrqPECDRz_U
